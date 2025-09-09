@@ -26,6 +26,7 @@
    - `5` = restart game  
    - `EXE` or `Clear` = quit  
 
+---
 
 ## Download
 
