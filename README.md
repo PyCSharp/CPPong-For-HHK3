@@ -7,6 +7,10 @@
   <a href="#community">Community</a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PyCSharp/CPPong-For-HHK3/refs/heads/main/image.jpg" alt="CPPong Preview">
+</p>
+
 ---
 
 ## How To Use
